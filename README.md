@@ -12,6 +12,6 @@
 - [Graph]()
 
 ## Challenges:
-- [Geeks for Geeks - Practice]()
+- [Geeks for Geeks - Practice](https://github.com/shamnad-sherief/java-challenge/blob/main/links/GFG.md)
 - [Hackerrank]()
 - [LeetCode]()
