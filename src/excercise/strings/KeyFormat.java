@@ -9,7 +9,7 @@
 //S = "5F3Z-2e-9-w", K = 4
 //Output: "5F3Z-2E9W"
 
-
+// source:- https://practice.geeksforgeeks.org/problems/license-key-formatting/1
 
 
 package excercise.strings;
