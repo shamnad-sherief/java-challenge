@@ -13,6 +13,9 @@ public class SecondLargest {
     public static void main(String[] args) {
         int[] arr ={12,35,1,10,34,1};
         int n = arr.length;;
+        SecondLargestSolution s1 = new SecondLargestSolution();
+        System.out.println(s1.print2largest(arr,n));
+
 
 
     }
@@ -50,7 +53,5 @@ class SecondLargestSolution{
             return -1;
         else
             return second;
-    }
-};
     }
 }
