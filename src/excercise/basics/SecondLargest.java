@@ -5,6 +5,8 @@
 // Arr[] = {12, 35, 1, 10, 34, 1}
 // Output: 34
 
+//source :- https://practice.geeksforgeeks.org/problems/second-largest3735/1
+
 package excercise.basics;
 
 public class SecondLargest {
