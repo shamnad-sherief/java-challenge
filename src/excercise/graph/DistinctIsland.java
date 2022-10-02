@@ -4,7 +4,7 @@
 
 // source:- https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1
 
-package excercise.array.graph;
+package excercise.graph;
 
 import java.util.HashSet;
 import java.util.LinkedList;
@@ -13,12 +13,12 @@ import java.util.Set;
 
 public class DistinctIsland {
     public static void main(String[] args) {
-       int [][] grid = {{1, 1, 0, 0, 0},
-            {1, 1, 0, 0, 0},
-            {0, 0, 0, 1, 1},
-            {0, 0, 0, 1, 1}};
+        int [][] grid = {{1, 1, 0, 0, 0},
+                {1, 1, 0, 0, 0},
+                {0, 0, 0, 1, 1},
+                {0, 0, 0, 1, 1}};
 
-       DistinctIslandSolution s1 = new DistinctIslandSolution();
+        DistinctIslandSolution s1 = new DistinctIslandSolution();
 
         System.out.println(s1.countDistinctIslands(grid));
     }
