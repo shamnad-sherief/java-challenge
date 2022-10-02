@@ -1,5 +1,7 @@
 ## GFG Practice 
 
+- [03-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/CharacterToPalindrome.java)
+- [02-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/CharacterToPalindrome.java)
 - [01-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/graph/DistinctIsland.java)
 - [30-09-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/SafePosition.java)
 - [29-09-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/Sort01and2s.java)
