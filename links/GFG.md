@@ -1,6 +1,6 @@
 ## GFG Practice 
 
-- [01-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/graph/DistinctIsland.java)
+- [01-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/graph/DistinctIsland.java)
 - [30-09-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/SafePosition.java)
 - [29-09-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/Sort01and2s.java)
 - [28-09-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/FitAnArray.java)
