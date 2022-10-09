@@ -1,3 +1,8 @@
+// This program takes N as input paramater and returns Nth term.
+// The Nth term is the difference of N and the closest prime number to N.
+
+// source:- https://practice.geeksforgeeks.org/problems/help-ishaan5837/1
+
 package excercise.basics;
 
 import java.util.Arrays;
