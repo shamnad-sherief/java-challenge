@@ -1,5 +1,9 @@
 ## GFG Practice 
 
+- [09-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/NthTermNearestPrimeDiff.java)
+- [08-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/DistinctSubstring.java)
+- [07-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/linkedList/FlattenBinaryTree.java)
+- [06-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/stack/LexicographicallySmaller.java)
 - [05-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/PrefixMatch.java)
 - [04-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array2d/PathCount.java)
 - [03-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/SumOfPrimeFactor.java)
