@@ -2,7 +2,7 @@
 // The "linked list" should use the same Node class where the right child pointer points to the next  node
 // in the list and the left child pointer is always null.
 // The "linked list" should be in the same order as a pre-order traversal of the binary tree.
-//
+// source:- https://practice.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1
 
 package excercise.linkedList;
 
