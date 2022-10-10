@@ -1,5 +1,6 @@
 ## GFG Practice 
 
+- [10-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array2d/NumberOfIslands.java)
 - [09-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/NthTermNearestPrimeDiff.java)
 - [08-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/DistinctSubstring.java)
 - [07-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/linkedList/FlattenBinaryTree.java)
