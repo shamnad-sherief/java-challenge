@@ -1,4 +1,4 @@
-package excercise.array2d;
+package excercise.matrix;
 
 //You are given a matrix of dimension n*n. All the cells are initially, zero.
 // You are given Q queries, which contains 4 integers a b c d where (a,b) is the TOP LEFT cell and

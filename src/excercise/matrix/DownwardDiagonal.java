@@ -2,7 +2,7 @@
 
 // source:- https://practice.geeksforgeeks.org/problems/print-diagonally4331/1
 
-package excercise.array2d;
+package excercise.matrix;
 
 import java.util.ArrayList;
 

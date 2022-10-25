@@ -3,7 +3,7 @@
 
 // source:- https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1
 
-package excercise.array2d;
+package excercise.matrix;
 
 public class PathCount {
     public static void main(String[] args) {

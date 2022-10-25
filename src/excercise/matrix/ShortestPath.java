@@ -4,7 +4,7 @@
 
 // source:- https://practice.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1
 
-package excercise.array2d;
+package excercise.matrix;
 
 import java.util.Arrays;
 import java.util.LinkedList;

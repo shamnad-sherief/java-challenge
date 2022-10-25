@@ -8,7 +8,7 @@
 //
 // source :-https://practice.geeksforgeeks.org/problems/number-of-islands/1
 
-package excercise.array2d;
+package excercise.matrix;
 
 import java.util.ArrayList;
 import java.util.List;
