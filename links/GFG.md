@@ -1,6 +1,14 @@
 ## GFG Practice 
 
-- [10-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/stack/StringDecode.java)
+- [19-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/graph/CheckHamiltonianPath.java)
+- [18-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array2d/DownwardDiagonal.java)
+- [17-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/arraylist/ReplaceLeastGreaterOnRight.java)
+- [16-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/linkedList/LastElementToFront.java)
+- [15-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array2d/ShortestPath.java)
+- [14-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/MaximizeSum.java)
+- [13-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/SumOfMinAndMax.java)
+- [12-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/hashmap/MaxSumOfChar.java)
+- [11-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/stack/StringDecode.java)
 - [10-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array2d/NumberOfIslands.java)
 - [09-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/NthTermNearestPrimeDiff.java)
 - [08-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/DistinctSubstring.java)
