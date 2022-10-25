@@ -1,5 +1,11 @@
 ## GFG Practice 
 
+- [25-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/MaxOfContigSubArray.java)
+- [24-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/hashmap/SortSetOfStrings.java)
+- [23-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/queue/SteppingNumbers.java)
+- [22-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/FillingBucket.java)
+- [21-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/matrix/ReverseSpiral.java)
+- [20-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/matrix/SumOfNumberForms.java)
 - [19-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/graph/CheckHamiltonianPath.java)
 - [18-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/matrix/DownwardDiagonal.java)
 - [17-10-2022](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/arraylist/ReplaceLeastGreaterOnRight.java)
