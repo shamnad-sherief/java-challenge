@@ -1,5 +1,6 @@
 ## GFG Practice 
 
+- [03-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/RemoveMinStudents.java)
 - [02-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/LargestValueInEachLevel.java)
 - [01-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/SumOfFirstLastBits.java)
 
