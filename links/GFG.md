@@ -1,5 +1,6 @@
 ## GFG Practice 
 
+- [07-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/linkedList/FlattenLinkedList.java)
 - [06-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/queue/ShortestPathToPrime.java)
 - [05-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/hashmap/LongestString.java)
 - [04-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/matrix/MaximumProfitOnIntervals.java)
