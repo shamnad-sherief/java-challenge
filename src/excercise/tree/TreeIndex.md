@@ -1,2 +1,3 @@
 - [Largest Value In Each Level](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/LargestValueInEachLevel.java)
+- [Sum Tree](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/SumTree.java)
 - [String Prefix Match](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/PrefixMatch.java)

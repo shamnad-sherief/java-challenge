@@ -1,5 +1,6 @@
 ## GFG Practice 
 
+- [10-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/SumTree.java)
 - [09-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/LastModifiedBowl.java)
 - [08-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/hashmap/CountPairDivisbleByDifference.java)
 - [07-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/linkedList/FlattenLinkedList.java)
