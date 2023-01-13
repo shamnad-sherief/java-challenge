@@ -1,5 +1,7 @@
 ## GFG Practice 
 
+- [12-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/queue/MinimizeWithSum.java)
+- [11-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/UniqueElementArray.java)
 - [10-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/SumTree.java)
 - [09-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/LastModifiedBowl.java)
 - [08-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/hashmap/CountPairDivisbleByDifference.java)

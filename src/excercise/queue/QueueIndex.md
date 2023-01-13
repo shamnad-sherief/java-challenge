@@ -1,1 +1,2 @@
+- [Minimize With Sum](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/queue/MinimizeWithSum.java)
 - [Shortest Path To Prime](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/queue/ShortestPathToPrime.java)
