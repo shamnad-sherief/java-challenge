@@ -4,3 +4,4 @@
 - [Make Array Unique](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/UniqueElementArray.java)
 - [Last Modified Bowl](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/LastModifiedBowl.java)
 - [Remove Minimum Student](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/RemoveMinStudents.java)
+- [Lucky Permutation](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/LuckyPermutations.java)
