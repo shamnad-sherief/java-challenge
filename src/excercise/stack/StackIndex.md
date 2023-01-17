@@ -1,0 +1,1 @@
+- [Next Greater Element](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/stack/NextGreaterElement.java)
