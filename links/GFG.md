@@ -1,5 +1,6 @@
 ## GFG Practice 
 
+- [18-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/linkedList/FirstNodeOfLoop.java)
 - [17-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/MaximumGCDofSiblings.java)
 - [16-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/stack/NextGreaterElement.java)
 - [15-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/hashmap/CountBinarySubString.java)
