@@ -1,5 +1,6 @@
 ## GFG Practice 
 
+- [21-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/MinimumXORInteger.java)
 - [20-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/MaximumWeightNode.java)
 - [19-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/recursion/CarpetBox.java)
 - [18-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/linkedList/FirstNodeOfLoop.java)
