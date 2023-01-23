@@ -1,5 +1,6 @@
 ## GFG Practice 
 
+- [23-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/stack/RemovePairs.java)
 - [22-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/GCDofSumofSubArray.java)
 - [21-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/MinimumXORInteger.java)
 - [20-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/MaximumWeightNode.java)
