@@ -3,6 +3,7 @@
 - [Value Equal to Index](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/ValueEqualToIndex.java)
 - [Second Largest Distinct Element](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/SecondLargestDistinctElement.java)
 - [Make Array Unique](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/UniqueElementArray.java)
+- [Reduced Array](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/ReducedArray.java)
 - [Last Modified Bowl](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/LastModifiedBowl.java)
 - [Remove Minimum Student](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/RemoveMinStudents.java)
 - [GCD of Sum of SubArrays ](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/GCDofSumofSubArray.java)
