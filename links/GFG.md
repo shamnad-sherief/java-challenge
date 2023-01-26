@@ -1,5 +1,6 @@
 ## GFG Practice 
 
+- [26-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/CaseSort.java)
 - [25-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/MinimumOperationString.java)
 - [24-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/ReducedArray.java)
 - [23-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/stack/RemovePairs.java)
