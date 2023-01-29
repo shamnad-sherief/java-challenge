@@ -1,5 +1,7 @@
 ## GFG Practice 
 
+- [29-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/MinOperationToEqual.java)
+- [28-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/IsScrambled.java)
 - [27-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/DecodeString.java)
 - [26-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/CaseSort.java)
 - [25-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/MinimumOperationString.java)

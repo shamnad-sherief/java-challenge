@@ -1,3 +1,4 @@
 - [Count Binary Substring](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/hashmap/CountBinarySubString.java)
 - [Longest Prefix Matching String](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/hashmap/LongestString.java)
 - [Count Pair Divisble By Their Difference](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/hashmap/CountPairDivisbleByDifference.java)
+- [Scrambled String or Not](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/IsScrambled.java)

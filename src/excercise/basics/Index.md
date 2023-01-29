@@ -1,1 +1,2 @@
+- [Minimum Operation To Equal](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/MinOperationToEqual.java)
 - [Minimum XOR Integer](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/MinimumXORInteger.java)
