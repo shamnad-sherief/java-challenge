@@ -2,3 +2,4 @@
 - [Sum Tree](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/SumTree.java)
 - [String Prefix Match](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/PrefixMatch.java)
 - [Maximum GCD of the Siblings](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/MaximumGCDofSiblings.java)
+- [Light up Nodes](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/LightUpNodes.java)
