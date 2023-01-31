@@ -1,5 +1,6 @@
 ## GFG Practice 
 
+- [31-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/MinRepeatToSubString.java)
 - [30-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/LightUpNodes.java)
 - [29-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/MinOperationToEqual.java)
 - [28-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/IsScrambled.java)
