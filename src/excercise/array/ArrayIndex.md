@@ -14,3 +14,4 @@
 - [GCD of Sum of SubArrays ](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/GCDofSumofSubArray.java)
 - [Maximum Weight Node](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/MaximumWeightNode.java)
 - [Lucky Permutation](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/LuckyPermutations.java)
+- [Largest Sum of Cycle In A Maze](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/LargestSumOfCycleInMaze.java)
