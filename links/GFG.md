@@ -1,5 +1,6 @@
 ## GFG Practice 
 
+- [08-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/matrix/NoOfFreeCells.java)
 - [07-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/LongestPositiveProductSubArray.java)
 - [06-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/TargetAndVerticalNodes.java)
 - [04-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/MaxSumWithoutAdjacent.java)
