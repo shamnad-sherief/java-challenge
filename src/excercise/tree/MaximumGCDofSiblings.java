@@ -6,12 +6,12 @@ import java.util.Queue;
 public class MaximumGCDofSiblings {
     public static void main(String[] args) {
 
-//          class Node
+//          class LargestValueNode
 //            {
 //                int data;
-//                Node left, right;
+//                LargestValueNode left, right;
 //
-//                Node(int item)
+//                LargestValueNode(int item)
 //                {
 //                    data = item;
 //                    left = right = null;
@@ -19,13 +19,13 @@ public class MaximumGCDofSiblings {
 //            }
 //
 
-        Node root = new Node(4);
-        root.left = new Node(5);
-        root.right = new Node(2);
-        root.right.left = new Node(3);
-        root.right.right = new Node(1);
-        root.right.left.left = new Node(6);
-        root.right.left.right = new Node(12);
+        LargestValueNode root = new LargestValueNode(4);
+        root.left = new LargestValueNode(5);
+        root.right = new LargestValueNode(2);
+        root.right.left = new LargestValueNode(3);
+        root.right.right = new LargestValueNode(1);
+        root.right.left.left = new LargestValueNode(6);
+        root.right.left.right = new LargestValueNode(12);
 
         MaximumGCDofSiblingsSolution obj = new MaximumGCDofSiblingsSolution();
 
@@ -41,15 +41,15 @@ class MaximumGCDofSiblingsSolution {
         if(b==0) return a;
         return gcd(b,a%b);
     }
-    int maxGCD(Node root) {
+    int maxGCD(LargestValueNode root) {
         if(root==null)
             return 0;
         int ans=0;
         int max=0;
-        Queue<Node> q=new LinkedList<>();
+        Queue<LargestValueNode> q=new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
-            Node temp=q.poll();
+            LargestValueNode temp=q.poll();
 
             if(temp.left!=null && temp.right!=null){
                 int d=gcd(temp.left.data,temp.right.data);
