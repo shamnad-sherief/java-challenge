@@ -1,5 +1,9 @@
 ## GFG Practice 
 
+- [07-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/LongestPositiveProductSubArray.java)
+- [06-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/tree/TargetAndVerticalNodes.java)
+- [04-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/MaxSumWithoutAdjacent.java)
+- [03-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/matrix/LastCellMatrix.java)
 - [02-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/LargestSumOfCycleInMaze.java)
 - [01-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/matrix/MinimumCostToPaint.java)
 - [31-01-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/strings/MinRepeatToSubString.java)
