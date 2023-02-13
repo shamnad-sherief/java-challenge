@@ -1,5 +1,6 @@
 ## GFG Practice 
 
+- [13-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/basics/InSequence.java)
 - [09-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/matrix/MaximumBipartiteMatching.java)
 - [08-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/matrix/NoOfFreeCells.java)
 - [07-02-2023](https://github.com/shamnad-sherief/java-challenge/blob/main/src/excercise/array/LongestPositiveProductSubArray.java)
